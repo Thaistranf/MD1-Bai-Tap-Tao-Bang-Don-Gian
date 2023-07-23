@@ -1,0 +1,15 @@
+table {
+    width: 45%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+caption {
+    font-family: "Times New Roman";
+    font-size: xx-large;
+    color: mediumblue;
+}
+th {
+    background-color: yellow;
+}
